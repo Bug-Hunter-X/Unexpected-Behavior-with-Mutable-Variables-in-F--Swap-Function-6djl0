@@ -1,0 +1,1 @@
+This example demonstrates an unexpected behavior when working with mutable variables and functions in F#. Due to pass-by-reference semantics, a seemingly correct swap function does not produce the expected result.  The solution showcases how to correctly swap values using tuples or by returning new values.
